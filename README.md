@@ -7,7 +7,7 @@ Contains 21,295 synthetic COVID-19 chest X-ray images. Original data from [RSNA 
 ### Data Generation Pipeline
 
 <p align="center">
-    <img src="./media/xray.png"/> <br />
+    <img src="./media/xray.png" width="70%"/> <br />
     <em> 
     Figure 1. Given any two unordered image collections, the generative algorithm learns to automatically translate an image from one  into  the  other: (left) Normal to (right) COVID-19; (left) Pneumonia to (right) COVID-19.
     </em>
