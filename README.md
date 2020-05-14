@@ -1,7 +1,7 @@
 ### Synthetic Image Dataset of COVID-19 Chest X-rays 
 
 <p align="center">
-  <a href="#"><img src="./media/synthetic.jpg" width=1200/></a> <br />
+  <a href="#"><img src="./media/synthetic.jpg" width=1400/></a> <br />
 </p>
 
 A public dataset for synthetic COVID-19 chest X-ray cases.
