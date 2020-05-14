@@ -24,6 +24,18 @@ The synthetic COVID-19 CXR images are generated using this conditional image syn
 
 ### Preliminary results
 
+
+<p align="center">
+  <a href="#"><img src="./media/umap.png" height=600/></a> <br />
+  <em> 
+    Figure 2. Two-dimensional UMAP of features to determine the distribution of original and synthetic examples. Both both tasks it
+can be seen that the synthetic samples are in a different distribution in the feature space which enables a decision boundary among
+the classes.
+    </em>
+</p>
+
+
+
 ### Citation
 
 ### Acknowledgements
