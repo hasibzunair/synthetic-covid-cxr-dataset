@@ -4,7 +4,7 @@
   <a href="#"><img src="./media/synthetic.jpg"></a> <br />
 </p>
 
-A public dataset for synthetic COVID-19 chest X-ray cases.
+A public dataset for synthetic COVID-19 chest X-ray cases. Data is available [here](https://github.com/hasibzunair/synthetic-covid-cxr-dataset/releases).
 
 ## Data Generation Pipeline
 
@@ -14,7 +14,8 @@ Contains 21,295 synthetic COVID-19 chest X-ray images. Original data from [RSNA 
 <p align="center">
   <a href="#"><img src="./media/xray.png" height=600/></a> <br />
   <em> 
-    Figure 1. Given any two unordered image collections, the generative algorithm learns to automatically translate an image from one  into  the  other: (left) Normal to (right) COVID-19; (left) Pneumonia to (right) COVID-19.
+    Figure 1. Given any two unordered image collections, the generative algorithm learns to automatically translate an image from one category to another. Top: Normal (left) to COVID-19 (right). Bottom: Pneumonia (left) to COVID-19 (right). Subtle visual changes can be observed in the translated images due
+to low inter-class variation.
     </em>
 </p>
 
