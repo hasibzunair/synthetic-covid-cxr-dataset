@@ -6,6 +6,8 @@
 
 A public dataset for synthetic COVID-19 chest X-ray cases. Data is available [here](https://github.com/hasibzunair/synthetic-covid-cxr-dataset/releases).
 
+**More details coming soon. A manuscript describing the data generatation procedure with the validation study has been submitted for possible publication.**
+
 ## Data Generation Pipeline
 
 Contains 21,295 synthetic COVID-19 chest X-ray images. Original data from [RSNA Kaggle Dataset](https://academictorrents.com/details/95588a735c9ae4d123f3ca408e56570409bcf2a9) and [COVID-19 Image Data Collection](https://github.com/ieee8023/covid-chestxray-dataset) which are publicly avaiable and can be downloaded from the URLs.
