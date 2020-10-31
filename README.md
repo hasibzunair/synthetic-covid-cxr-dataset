@@ -1,4 +1,4 @@
-# Synthesis of COVID-19 Chest X-rays using Unpaired Image-to-Image Translation [arXiv](https://arxiv.org/abs/2010.10266)
+# Synthesis of COVID-19 Chest X-rays using Unpaired Image-to-Image Translation [[arXiv](https://arxiv.org/abs/2010.10266)]
 
 <p align="center">
   <a href="#"><img src="./media/synthetic.jpg"></a> <br />
