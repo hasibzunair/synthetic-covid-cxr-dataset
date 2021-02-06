@@ -9,8 +9,6 @@ Dataset is available [here](https://github.com/hasibzunair/synthetic-covid-cxr-d
 This repository is part of the supplementary materials for our paper titled *Synthesis of COVID-19 Chest X-rays using Unpaired Image-to-Image Translation* accepted for publication in the Journal of 
 Social Network Analysis and Mining (SNAM).
 
-Authors: Hasib Zunair and A. Ben Hamza
-
 ## Synthetic COVID-19 Dataset
 
 The dataset consists of 21,295 synthetic COVID-19 chest X-ray images. Images are generated using an unsupervised domain adaptation approach by leveraging class conditioning and adversarial training. Implementation of the algorithm is available [here](https://github.com/hasibzunair/adversarial-lesions).
@@ -39,6 +37,7 @@ If you use this dataset in your scientific work, please cite the following:
   publisher={IOP Publishing}
 }
 ```
+
 
 
 
