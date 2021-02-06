@@ -22,8 +22,8 @@ The dataset consists of 21,295 synthetic COVID-19 chest X-ray images. Images are
 </p>
 
 ## Citation
-If this was helpful in your work, please cite the following:
-```
+If you use this dataset in your scientific work, please cite the following:
+```bibtex
 @article{zunair2020synthesis,
   title={Synthesis of COVID-19 Chest X-rays using Unpaired Image-to-Image Translation},
   author={Zunair, Hasib and Hamza, A Ben},
