@@ -13,7 +13,15 @@ Authors: Hasib Zunair and A. Ben Hamza
 
 ## Synthetic COVID-19 Dataset
 
-The dataset consists of 21,295 synthetic COVID-19 chest X-ray images. Images are generated using an unsupervised domain adaptation approach by leveraging class conditioning and adversarial training. Implementation of the algorithm is available [here](https://github.com/hasibzunair/adversarial-lesions).
+The dataset consists of 21,295 synthetic COVID-19 chest X-ray images. Images are generated using an unsupervised domain adaptation approach by leveraging class conditioning and adversarial training from source datasets [RSNA Kaggle Dataset](https://academictorrents.com/details/95588a735c9ae4d123f3ca408e56570409bcf2a9) and [COVID-19 Image Data Collection](https://github.com/ieee8023/covid-chestxray-dataset). Implementation of the algorithm is available [here](https://github.com/hasibzunair/adversarial-lesions).
+
+<p align="center">
+  <a href="#"><img src="./media/xray.png" height=600/></a> <br />
+  <em> 
+    Figure 1. Given any two unordered image collections, the generative algorithm learns to automatically translate an image from one category to another. Top: Normal (left) to COVID-19 (right). Bottom: Pneumonia (left) to COVID-19 (right). Subtle visual changes can be observed in the translated images due
+to low inter-class variation.
+    </em>
+</p>
 
 ## Result highlights
 
