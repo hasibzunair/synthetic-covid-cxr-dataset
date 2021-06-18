@@ -5,11 +5,14 @@ This repository is part of the supplementary materials for our ICML 2021 Worksho
 The dataset consists of 21,295 synthetic COVID-19 chest X-ray images generated using [this](https://github.com/hasibzunair/adversarial-lesions) algorithm. Dataset is available at this [link](https://github.com/hasibzunair/synthetic-covid-cxr-dataset/releases/tag/v0.1).
 
 <p align="center">
-  <a href="#"><img src="./media/synthetic.jpg"></a> <br />
+  <a href="#"><img src="./media/model.png"/></a> <br />
+  <em> 
+    Figure 1. Illustration of the data generation process based on unpaired image-to-image translation. Chest X-ray images are translated from Non-COVID-19 (i.e. Normal or Pneumonia) to COVID-19 and then back to Non-COVID-19 via cycle-consistency
+    </em>
 </p>
 
+
 ## Resources
-* 
 * ICML 2021 WCB Paper (Will be added)
 * [SNAM Journal Paper](https://link.springer.com/article/10.1007/s13278-021-00731-5)
 
