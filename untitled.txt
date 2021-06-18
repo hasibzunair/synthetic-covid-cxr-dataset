@@ -1,6 +1,0 @@
-<p align="center">
-  <a href="#"><img src="./media/xray.png" height=600/></a> <br />
-  <em> 
-    Figure 1. Illustration of the data generation process based on unpaired image-to-image translation. Chest X-ray images are translated from Non-COVID-19 (i.e. Normal or Pneumonia) to COVID-19 and then back to Non-COVID-19 via cycle-consistency
-    </em>
-</p>

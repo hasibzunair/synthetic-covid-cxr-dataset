@@ -11,16 +11,9 @@ The dataset consists of 21,295 synthetic COVID-19 chest X-ray images generated u
     </em>
 </p>
 
-
 ## Resources
 * ICML 2021 WCB Paper (Will be added)
 * [SNAM Journal Paper](https://link.springer.com/article/10.1007/s13278-021-00731-5)
-
-## Result highlights
-
-<p align="center">
-  <a href="#"><img src="./media/results.png"></a> <br />
-</p>
 
 ## Citation
 If you use this dataset in your scientific work, please cite the following:
@@ -35,18 +28,17 @@ If you use this dataset in your scientific work, please cite the following:
   year={2021},
   publisher={Springer}
 }
-
-@article{zunair2020melanoma,
-  title={Melanoma detection using adversarial training and deep transfer learning},
-  author={Zunair, Hasib and Hamza, A Ben},
-  journal={Physics in Medicine \& Biology},
-  year={2020},
-  publisher={IOP Publishing}
-}
 ```
 
+## Result highlights
 
+<p align="center">
+  <a href="#"><img src="./media/results.png"></a> <br />
+</p>
 
+## License
+
+MIT
 
 
 
