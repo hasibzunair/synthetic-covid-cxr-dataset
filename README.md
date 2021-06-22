@@ -1,6 +1,6 @@
 # Synthetic COVID-19 Chest X-ray Dataset for Computer-Aided Diagnosis
 
-This repository is part of the supplementary materials for our ICML 2021 Workshop on Computational Biology (WCB) paper. A more detailed version titled *Synthesis of COVID-19 Chest X-rays using Unpaired Image-to-Image Translation* is published in the Journal of Social Network Analysis and Mining (SNAM).
+This repository hosts dataset for our ICML 2021 Workshop on Computational Biology (WCB) paper. A more detailed version titled *Synthesis of COVID-19 Chest X-rays using Unpaired Image-to-Image Translation* is published in the Journal of Social Network Analysis and Mining (SNAM).
 
 The dataset consists of 21,295 synthetic COVID-19 chest X-ray images generated using [this](https://github.com/hasibzunair/adversarial-lesions) algorithm. Dataset is available at this [link](https://github.com/hasibzunair/synthetic-covid-cxr-dataset/releases/tag/v0.1).
 
@@ -12,7 +12,7 @@ The dataset consists of 21,295 synthetic COVID-19 chest X-ray images generated u
 </p>
 
 ## Resources
-* ICML 2021 WCB Paper (Will be added)
+* [ICML 2021 WCB Paper](https://arxiv.org/abs/2106.09759)
 * [SNAM Journal Paper](https://link.springer.com/article/10.1007/s13278-021-00731-5)
 
 ## Citation
@@ -35,6 +35,10 @@ If you use this dataset in your scientific work, please cite the following:
 <p align="center">
   <a href="#"><img src="./media/results.png"></a> <br />
 </p>
+
+## Acknowledgements
+
+Dataset was generated using [https://github.com/hasibzunair/adversarial-lesions](https://github.com/hasibzunair/adversarial-lesions).
 
 ## License
 
