@@ -11,7 +11,8 @@ The dataset consists of 21,295 synthetic COVID-19 chest X-ray images generated u
     </em>
 </p>
 
-Here's a video of the learning in progress.
+Here's a video of the learning in progress. Top row (Normal CXR, Translated COVID-19 CXR, Reconstructed Normal CXR), bottom row (COVID-19 CXR, Translated Normal CXR, Reconstructed COVID-19 CXR).
+
 <p align="center">
   <a href="#"><img src="./media/training.gif"/></a> <br />
 </p>
