@@ -1,6 +1,11 @@
 # Synthetic COVID-19 Chest X-ray Dataset for Computer-Aided Diagnosis
 
-This repository hosts dataset for our ICML 2021 Workshop on Computational Biology (WCB) paper. A more detailed version titled *Synthesis of COVID-19 Chest X-rays using Unpaired Image-to-Image Translation* is published in Social Network Analysis and Mining (SNAM) Special Issue on Tackling COVID-19 Infodemic.
+This repository hosts dataset for our ICML 2021 Workshop on Computational Biology (WCB) paper. A more detailed version titled *Synthesis of COVID-19 Chest X-rays using Unpaired Image-to-Image Translation* is published in the Journal of Social Network Analysis and Mining (SNAM), Special Issue on Tackling COVID-19 Infodemic.
+
+## Resources
+* [ICML 2021 WCB Paper](https://icml-compbio.github.io/2021/papers/WCBICML2021_paper_13.pdf)
+* [SNAM Journal Paper](https://link.springer.com/article/10.1007/s13278-021-00731-5)
+* [arXiv](https://arxiv.org/abs/2106.09759)
 
 The dataset consists of 21,295 synthetic COVID-19 chest X-ray images generated using [this](https://github.com/hasibzunair/adversarial-lesions) algorithm. Dataset is available at this [link](https://github.com/hasibzunair/synthetic-covid-cxr-dataset/releases/tag/v0.1).
 
@@ -16,11 +21,6 @@ Here's a video of the learning in progress. Top row (Normal CXR, Translated COVI
 <p align="center">
   <a href="#"><img src="./media/training.gif"/></a> <br />
 </p>
-
-## Resources
-* [ICML 2021 WCB Paper](https://icml-compbio.github.io/2021/papers/WCBICML2021_paper_13.pdf)
-* [SNAM Journal Paper](https://link.springer.com/article/10.1007/s13278-021-00731-5)
-* [arXiv](https://arxiv.org/abs/2106.09759)
 
 ## Citation
 If you use this dataset in your scientific work, please cite the following:
@@ -45,7 +45,7 @@ If you use this dataset in your scientific work, please cite the following:
 
 ## Acknowledgements
 
-Dataset was generated using [https://github.com/hasibzunair/adversarial-lesions](https://github.com/hasibzunair/adversarial-lesions).
+The synthetic dataset was generated using [https://github.com/hasibzunair/adversarial-lesions](https://github.com/hasibzunair/adversarial-lesions).
 
 ## License
 
