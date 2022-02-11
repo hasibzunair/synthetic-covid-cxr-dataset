@@ -47,9 +47,4 @@ If you use this dataset in your scientific work, please cite the following:
 
 The synthetic dataset was generated using [https://github.com/hasibzunair/adversarial-lesions](https://github.com/hasibzunair/adversarial-lesions).
 
-## License
-
-MIT
-
-
-
+<img src=".media/meme.jpeg" width="300">
