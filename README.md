@@ -7,7 +7,7 @@ This repository hosts dataset for our ICML 2021 Workshop on Computational Biolog
 * [SNAM Journal Paper](https://link.springer.com/article/10.1007/s13278-021-00731-5)
 * [arXiv](https://arxiv.org/abs/2106.09759)
 
-The dataset consists of 21,295 synthetic COVID-19 chest X-ray images generated using [this](https://github.com/hasibzunair/adversarial-lesions) algorithm. Dataset is available at this [link](https://github.com/hasibzunair/synthetic-covid-cxr-dataset/releases/tag/v0.1).
+The dataset consists of 21,295 synthetic COVID-19 chest X-ray images generated using [this](https://github.com/hasibzunair/synthetic-covid-cxr-gen) algorithm. Dataset is available at this [link](https://github.com/hasibzunair/synthetic-covid-cxr-dataset/releases/tag/v0.1).
 
 <p align="center">
   <a href="#"><img src="./media/model.png"/></a> <br />
